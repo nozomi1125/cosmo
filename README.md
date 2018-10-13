@@ -1,4 +1,6 @@
-# README
+git status# README
+
+宝塚歌劇団の紹介ページです
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
